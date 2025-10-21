@@ -1,0 +1,11 @@
+.container {
+    displayflex;
+    flex-wrap: wrap;  
+}
+
+.item {
+    width: 100px;
+    height: 60px;
+    background-color: chartreuse;
+    margin: 10px;
+}
